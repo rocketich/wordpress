@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Myself Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://192.168.33.10/sugar/demo.wordpress.loc
+Data file = /vagrant/demo.wordpress.loc/wp-content/uploads/2019/06/demo-content-import-file_2019-06-15__17-16-06.xml
+Widget file = /vagrant/demo.wordpress.loc/wp-content/uploads/2019/06/demo-widgets-import-file_2019-06-15__17-16-06.json
+Customizer file = /vagrant/demo.wordpress.loc/wp-content/uploads/2019/06/demo-customizer-import-file_2019-06-15__17-16-06.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Texto - No Title - Widget already exists
+
+Footer Widget 2 : 
+
+Menú de Navegación - Learn More - Widget already exists
+
+Footer Widget 3 : 
+
+Menú de Navegación - About Me - Widget already exists
+
+Footer Widget 4 : 
+
+Menú de Navegación - Support - Widget already exists
+
+Footer Widget 5 : 
+
+Texto - Contact - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

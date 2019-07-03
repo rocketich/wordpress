@@ -1,0 +1,187 @@
+[15/Jun/2019:18:40:40] (ℹ️): WordPress Instance Info:
+[15/Jun/2019:18:40:40] (ℹ️): Home URL : http://192.168.33.10/sugar/demo.wordpress.loc
+[15/Jun/2019:18:40:40] (ℹ️): Site URL : http://192.168.33.10/sugar/demo.wordpress.loc
+[15/Jun/2019:18:40:40] (ℹ️): WordPress Version : 5.2.1
+[15/Jun/2019:18:40:40] (ℹ️): Onboarding Version : 1.4.1
+[15/Jun/2019:18:40:40] (ℹ️): Multisite : No
+[15/Jun/2019:18:40:40] (ℹ️): Server Info : Apache/2.4.18 (Ubuntu)
+[15/Jun/2019:18:40:40] (ℹ️): PHP Version : 7.1.16-1+ubuntu16.04.1+deb.sury.org+1
+[15/Jun/2019:18:40:40] (ℹ️): HTTPS : No
+[15/Jun/2019:18:40:40] (ℹ️): PHP Max Execution Time : 300
+[15/Jun/2019:18:40:40] (ℹ️): PHP Max Input Vars : 1000
+[15/Jun/2019:18:40:40] (ℹ️): Max Upload Size : 8388608
+[15/Jun/2019:18:40:40] (ℹ️): Plugins:
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Astra Bulk Edit : v1.1.0 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Import / Export Customizer Settings : v1.0.0 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Astra Starter Sites : v1.3.14 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Astra Widgets : v1.1.1 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Blog Designer : v1.8.14 (Solwin Infotech)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.3 (Takayuki Miyoshi)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Custom Fonts : v1.0.8 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Custom Adobe Fonts (Typekit) : v1.0.11 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Customizer Search : v1.1.2 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Elementor : v2.5.16 (Elementor.com)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Gold Addons for Elementor : v1.0.7 (GoldAddons)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] One Click Demo Import : v2.5.1 (ProteusThemes)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Astra Customizer Reset : v1.0.0 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Sidebar Manager : v1.0.2 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] TP Piebuilder : v0.7 (Theme Palace)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] Ultimate Addons for Gutenberg : v1.13.3 (Brainstorm Force)
+[15/Jun/2019:18:40:40] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
+[15/Jun/2019:18:40:40] (✅): Using local XML.
+[15/Jun/2019:18:40:40] (🔵): Starting content import...
+[15/Jun/2019:18:40:40] (✅): Import started.
+[15/Jun/2019:18:40:40] (✅): Parsing XML file.
+[15/Jun/2019:18:40:40] (🔵): Starting parsing file:/vagrant/demo.wordpress.loc/wp-content/themes/hestia/onboarding/hestia-default/export.xml
+[15/Jun/2019:18:40:40] (🔵): Using Themeisle_OB_WXR_Parser_SimpleXML...
+[15/Jun/2019:18:40:41] (✅): Parsed XML
+[15/Jun/2019:18:40:41] (🔵): Processing categories...
+[15/Jun/2019:18:40:41] (✅): Processed categories.
+[15/Jun/2019:18:40:41] (🔵): Processing tags...
+[15/Jun/2019:18:40:41] (✅): Processed tags.
+[15/Jun/2019:18:40:41] (🔵): Processing terms...
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility exclude-from-catalog
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility exclude-from-search
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_type external
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility featured
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_type grouped
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility outofstock
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility rated-1
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility rated-2
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility rated-3
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility rated-4
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_visibility rated-5
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_type simple
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_cat Uncategorized
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_type variable
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_cat Accessories
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_cat Fashion
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_cat Popular
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (⚠️): Failed to import product_cat Trending
+[15/Jun/2019:18:40:41] (🔴️): Taxonomía no válida.
+[15/Jun/2019:18:40:41] (✅): Processed terms.
+[15/Jun/2019:18:40:41] (🔵): Processing posts...
+[15/Jun/2019:18:40:41] (🔵): Inserting page: WPForms Preview .
+[15/Jun/2019:18:40:41] (✅): Done inserting page: WPForms Preview .
+[15/Jun/2019:18:40:41] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/31529251932_1a1d928c17_o.jpg...
+[15/Jun/2019:18:40:41] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/31529251932_1a1d928c17_o.jpg...
+[15/Jun/2019:18:40:44] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:44] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:44] (✅): Attachment inserted
+[15/Jun/2019:18:40:44] (✅): Processed attachment.
+[15/Jun/2019:18:40:44] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/pool.jpg...
+[15/Jun/2019:18:40:44] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/pool.jpg...
+[15/Jun/2019:18:40:46] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:46] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:46] (✅): Attachment inserted
+[15/Jun/2019:18:40:46] (✅): Processed attachment.
+[15/Jun/2019:18:40:46] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/tropical-beach-1.jpg...
+[15/Jun/2019:18:40:46] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2018/11/tropical-beach-1.jpg...
+[15/Jun/2019:18:40:47] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:47] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:47] (✅): Attachment inserted
+[15/Jun/2019:18:40:47] (✅): Processed attachment.
+[15/Jun/2019:18:40:47] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:47] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:47] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:47] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:47] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/1.jpg...
+[15/Jun/2019:18:40:47] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/1.jpg...
+[15/Jun/2019:18:40:48] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:48] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:48] (✅): Attachment inserted
+[15/Jun/2019:18:40:48] (✅): Processed attachment.
+[15/Jun/2019:18:40:48] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/2.jpg...
+[15/Jun/2019:18:40:48] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/2.jpg...
+[15/Jun/2019:18:40:49] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:49] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:49] (✅): Attachment inserted
+[15/Jun/2019:18:40:49] (✅): Processed attachment.
+[15/Jun/2019:18:40:49] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/3.jpg...
+[15/Jun/2019:18:40:49] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/3.jpg...
+[15/Jun/2019:18:40:49] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:49] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:49] (✅): Attachment inserted
+[15/Jun/2019:18:40:49] (✅): Processed attachment.
+[15/Jun/2019:18:40:49] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/4.jpg...
+[15/Jun/2019:18:40:49] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/4.jpg...
+[15/Jun/2019:18:40:50] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:50] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:50] (✅): Attachment inserted
+[15/Jun/2019:18:40:50] (✅): Processed attachment.
+[15/Jun/2019:18:40:50] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/5.jpg...
+[15/Jun/2019:18:40:50] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/5.jpg...
+[15/Jun/2019:18:40:51] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:51] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:51] (✅): Attachment inserted
+[15/Jun/2019:18:40:51] (✅): Processed attachment.
+[15/Jun/2019:18:40:51] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/6.jpg...
+[15/Jun/2019:18:40:51] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/6.jpg...
+[15/Jun/2019:18:40:52] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:52] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:52] (✅): Attachment inserted
+[15/Jun/2019:18:40:52] (✅): Processed attachment.
+[15/Jun/2019:18:40:52] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/7.jpg...
+[15/Jun/2019:18:40:52] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/03/7.jpg...
+[15/Jun/2019:18:40:52] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:52] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:52] (✅): Attachment inserted
+[15/Jun/2019:18:40:52] (✅): Processed attachment.
+[15/Jun/2019:18:40:52] (🔵): Processing attachment: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/04/placeholder-image.jpg...
+[15/Jun/2019:18:40:52] (🔵): Fetching attachment from url: https://demo.themeisle.com/hestia-default/wp-content/uploads/sites/174/2019/04/placeholder-image.jpg...
+[15/Jun/2019:18:40:53] (✅): Fetched remote attachment.
+[15/Jun/2019:18:40:53] (🔵): Inserting attachment...
+[15/Jun/2019:18:40:53] (✅): Attachment inserted
+[15/Jun/2019:18:40:53] (✅): Processed attachment.
+[15/Jun/2019:18:40:53] (🔵): Inserting page: Front Page .
+[15/Jun/2019:18:40:53] (✅): Done inserting page: Front Page .
+[15/Jun/2019:18:40:53] (🔵): Inserting page: Blog .
+[15/Jun/2019:18:40:53] (✅): Done inserting page: Blog .
+[15/Jun/2019:18:40:53] (🔵): Inserting page: Home .
+[15/Jun/2019:18:40:53] (✅): Done inserting page: Home .
+[15/Jun/2019:18:40:53] (🔵): Filtering elementor meta...
+[15/Jun/2019:18:40:53] (✅): Filtered elementor meta.
+[15/Jun/2019:18:40:53] (🔵): Inserting page: Build a Page Like This Yourself .
+[15/Jun/2019:18:40:53] (✅): Done inserting page: Build a Page Like This Yourself .
+[15/Jun/2019:18:40:53] (🔵): Filtering elementor meta...
+[15/Jun/2019:18:40:53] (✅): Filtered elementor meta.
+[15/Jun/2019:18:40:53] (🔵): Inserting post: Always deliver more than expected .
+[15/Jun/2019:18:40:53] (✅): Done inserting post: Always deliver more than expected .
+[15/Jun/2019:18:40:53] (🔵): Inserting post: Do it with passion .
+[15/Jun/2019:18:40:53] (✅): Done inserting post: Do it with passion .
+[15/Jun/2019:18:40:54] (🔵): Inserting post: Never stop dreaming .
+[15/Jun/2019:18:40:54] (✅): Done inserting post: Never stop dreaming .
+[15/Jun/2019:18:40:54] (🔵): Inserting post: We rise by lifting others .
+[15/Jun/2019:18:40:54] (✅): Done inserting post: We rise by lifting others .
+[15/Jun/2019:18:40:54] (🔵): Inserting post: And so the adventure begins .
+[15/Jun/2019:18:40:54] (✅): Done inserting post: And so the adventure begins .
+[15/Jun/2019:18:40:54] (✅): Processed posts.
+[15/Jun/2019:18:40:54] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:54] (✅): Processed single menu item.
+[15/Jun/2019:18:40:54] (🔵): Processing single menu item ' '...
+[15/Jun/2019:18:40:54] (🔵): Cleaning up import with id ...
+[15/Jun/2019:18:40:54] (🔵): Done cleanup. Flushing cache...
+[15/Jun/2019:18:40:54] (🔵): Flushed cache. Removing temporary data..
+[15/Jun/2019:18:40:54] (✅): Done importing
+[15/Jun/2019:18:40:54] (🔵): Busting elementor cache
+[15/Jun/2019:18:40:58] (✅): Front page set up with id: 673.
+[15/Jun/2019:18:40:58] (🔵): Setting up shop page.
+[15/Jun/2019:18:40:58] (✅): No WooCommerce.
